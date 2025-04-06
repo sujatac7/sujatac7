@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sujata 👋</h1>
 
-<!--
-**sujatac7/sujatac7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌸 Tech enthusiast • CS Student • Dreamer in Progress  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💜 About Me
+- 🎓 Currently studying Computer Science  
+- 💻 Exploring design, tech, and creative side projects  
+- ✨ Quietly building something meaningful  
+
+---
+
+### 🛠️ Skills & Tools
+- `HTML` `CSS` `JavaScript` `Python`  
+- `Figma` `Canva` `Notion` `Git` `GitHub`
+
+---
+
+### 📌 Goals
+- Keep learning every day  
+- Work on personal projects  
+- Stay consistent & lowkey until it’s time to show up  
+
+---
+
+<p align="center">
+🦋 *Work in progress... stay tuned.* 🦋  
+</p>
